@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <title>Sorting Hat</title>
     <meta name="robots" content="noindex,nofollow" />
-        <script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+        <script src="https://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore.js"></script>
 <script> 
     $(document).ready(function() {  
